@@ -1,4 +1,4 @@
-uicolor-crayola
+UIColor+Crayola
 ===============
 
 UIColor category for Crayola crayon colours.
