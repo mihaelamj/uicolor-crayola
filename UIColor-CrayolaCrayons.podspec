@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 
-  s.name         = "UIColor-Crayola"
+  s.name         = "UIColor-CrayolaCrayons"
   s.version      = "1.0.0"
   s.summary      = "OUIColor category for Crayola crayon colors"
 
@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
 
   s.author       = { "Mihaela Mihaljevic Jakic" => "mihaelamj@me.com" }
 
-  s.platform     = :ios, '6.0'
+   s.platform     = :ios, '6.0'
 
   s.source       = { :git => "https://github.com/mihaelamj/uicolor-crayola.git", :tag => "1.0.0" }
 
